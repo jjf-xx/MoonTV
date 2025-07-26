@@ -85,10 +85,14 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
       },
-    "xiaomaomi": {
+    "changzhanziyuan": {
       "api": "https://www.czzy77.com",
       "name": "厂长资源"
-       },
+      },
+    "hangjuziyuan": {
+      "api": "http://caiji.dyttzyapi.com",
+      "name": "厂长资源"
+       }
     }
   }
 }
