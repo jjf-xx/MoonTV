@@ -85,10 +85,10 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
       },
-    "xiaomaomi": {
+    "hanju": {
       "api": "https://www.hanjukankan.com",
       "name": "韩剧资源"
-       },
+       }
     }
     }
   }
